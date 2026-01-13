@@ -120,7 +120,7 @@ def generate_word(data, output_path):
 
 
 def main():
-    input_file = "10.11.0.0.16_pn_260107.txt"  # 你的 fscan 输出文件
+    input_file = "report.txt"  # 你的 fscan 输出文件
     output_dir = "output"
 
     # --- 新增：自动创建输出文件夹 ---
